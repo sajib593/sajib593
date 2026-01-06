@@ -64,13 +64,8 @@ I enjoy building **clean, responsive, and user-friendly web applications** and c
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  https://upload.wikimedia.org/wikipedia/commons/6/6b/Bitmap_VS_SVG.svg
+### 🚀 Currently Focused On
+- Building production-ready React applications
+- Improving code quality and best practices
+- Preparing for junior frontend developer roles
 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajib593&layout=compact&hide_border=true" />
-
-</p>
