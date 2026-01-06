@@ -66,7 +66,7 @@ I enjoy building **clean, responsive, and user-friendly web applications** and c
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib593&show_icons=true&hide_title=true" />
+  https://upload.wikimedia.org/wikipedia/commons/6/6b/Bitmap_VS_SVG.svg
 
 </p>
 
